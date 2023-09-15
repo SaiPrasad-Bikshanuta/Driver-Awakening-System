@@ -1,6 +1,6 @@
-# Drowsiness and Yawn detection with voice alert using Dlib
+# Drowsiness and Yawn detection using Raspberri Pi
 
-Simple code in python to detect Drowsiness and Yawn and alert the user using Dlib.
+Simple code in python to detect Drowsiness and Yawn and alert the user.
 
 ## Dependencies
 
@@ -29,7 +29,7 @@ YAWN_THRESH = 10`	//change this according to the distance from the camera
 
 ## Authors
 
-**Arijit Das** 
+**Sai Prasad** 
 
 
 ## Acknowledgments
